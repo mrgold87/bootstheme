@@ -1,0 +1,19 @@
+/*
+Theme Name: BootSTheme
+Description: Theme Built on bootstrap
+Version:1.1
+Author: DAB
+*/
+
+.card-title a {
+    text-decoration: none;
+    color: #69767e;
+}
+
+.card-title a:hover {
+    color: #21221c;
+}
+
+.pagination {
+    display: block;
+}
